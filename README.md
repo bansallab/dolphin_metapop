@@ -1,6 +1,6 @@
 # Seasonal contact and migration structure mass epidemics and inform outbreak preparedness in bottlenose dolphins
 
-Dataset DOI: [10.5061/dryad.w9ghx3g1k](10.5061/dryad.w9ghx3g1k)
+Dataset DOI: 10.5281/zenodo.15784437
 
 ## Description of the data and file structure
 
